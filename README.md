@@ -19,7 +19,8 @@ I'm a **Network Engineering student**, passionate about **cloud computing**, **n
 
 ---
 
-![Cherry Animation](https://i.imgur.com/9FtzzfC.gif)
+![Laptop GIF](https://media.giphy.com/media/xonOzxf2M8hNu/giphy.gif)
+
 
 ## Let's Connect!
 Made with 💻 by Mia - Network Engineering Student
