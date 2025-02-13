@@ -8,19 +8,3 @@ I'm a **Network Engineering student**, passionate about **cloud computing**, **n
 ## About Me
 🌱 Currently learning about **Networking Architecture**.  
 🌱 Exploring **AWS**, **Cisco**, and **Cloud Solutions**.
-
-## Technologies I Use:
-- **Cloud**: AWS, Google Cloud  
-- **Networking**: Cisco, SDN, VPNs, Routers & Switches  
-- **Programming**: Python, Bash, Shell scripting  
-
-## Skills
-- Network Engineering
-- Cloud Computing (AWS)
-- Scripting (Python, Bash)
-
----
-
-
-## Let's Connect!
-Made with 💻 by Mia - Network Engineering Student
