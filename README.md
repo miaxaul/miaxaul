@@ -13,9 +13,9 @@
 ### 🌙 ❝ Who is she? ❞
 <div align="center">
   
-  <p>₍՞◌′ᵕ‵ू◌₎♡  A girl who still learning for the codes and clouds.</p>
-  
-  <p>draws stories with colors, speaks in quiet logic, and hides magic in subtle eunoia.</p>
+<p>₍՞◌′ᵕ‵ू◌₎♡  A soul drifting through the ethereal code and boundless clouds.</p>
+
+<p>Weaves tales with hues of wonder, whispers in the language of logic, and conceals her spells within the silence of eunoia.</p>
 
   <br>
 </div>
@@ -37,7 +37,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45px" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg" width="45px" />
 </p>
 
 ---
