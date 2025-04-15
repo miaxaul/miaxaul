@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=435&lines=｡･:*:･ﾟ★,｡･:*:･ﾟ☆+.*+Let+the+Clouds+Speak+｡･:*:･ﾟ★,｡･:*:･ﾟ☆+.*+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=435&lines=try+to+never+stop+learning;cz+life+never+stop+teaching" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 <!-- ANIMATED LINE -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=18&duration=4000&pause=1000&center=true&width=435&lines=↳+Currently+deploying+serverless+magic.;↳+Sketching+worlds+with+Ibis+Paint.;↳+Taming+VPC+dragons.;↳+Crafting+cloud+realms..+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=18&duration=4000&pause=1000&center=true&width=435&lines=%E2%86%B3+Currently+deploying+serverless+magic.;%E2%86%B3+Sketching+worlds+with+Ibis+Paint.;%E2%86%B3+Taming+VPC+dragons.;%E2%86%B3+Crafting+cloud+realms." alt="Typing SVG" />
 </h3>
 
 ---
@@ -42,8 +42,6 @@
 
 ---
 
----
-
 <!-- ARTWORK / MOOD -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/16/c5/3a/16c53a496f81e81b241250dd50c15a8c.gif" width="300px" />
@@ -52,6 +50,6 @@
 ---
 
 <p align="center">
-  ૮₍ ´• ˕ •` ₎ა Thanks for visiting~
+  ૮₍ ´• ˕ •` ₎ா Thanks for visiting~  
   <br>⋆｡ﾟ☁︎｡⋆｡ 𝒀𝒐𝒖 𝒂𝒓𝒆 𝒏𝒐𝒘 𝒍𝒆𝒂𝒗𝒊𝒏𝒈 𝒕𝒉𝒆 𝒄𝒍𝒐𝒖𝒅𝒔 ⋆｡ﾟ☁︎｡⋆｡
 </p>
